@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.format.enable": true,
+  "eslint.validate": ["javascript", "react", "html"],
+  "search.exclude": {
+    "**/node_modules": false,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  }
+}
