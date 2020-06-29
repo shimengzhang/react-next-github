@@ -1,1 +1,0 @@
-{"ast":null,"code":"import App from 'next/app';\nexport default App;","map":{"version":3,"sources":["/Users/zsm/Documents/project/React/react-next-github/pages/_app.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP,MAAgB,UAAhB;AAEA,eAAeA,GAAf","sourcesContent":["import App from 'next/app';\n\nexport default App;\n"]},"metadata":{},"sourceType":"module"}
