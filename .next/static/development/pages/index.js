@@ -1967,14 +1967,14 @@ eval("var assign=Object.assign.bind(Object);function g(){return assign;}Object.d
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./":
-/*!************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js ***!
-  \************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js ***!
+  \*********************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\n    (window.__NEXT_P = window.__NEXT_P || []).push([\n      \"/\",\n      function () {\n        return __webpack_require__(/*! ./pages/index.js */ \"./pages/index.js\");\n      }\n    ]);\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWNsaWVudC1wYWdlcy1sb2FkZXIuanM/YzI2OCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsZUFBZSxtQkFBTyxDQUFDLDBDQUFxRTtBQUM1RjtBQUNBIiwiZmlsZSI6Ii4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1jbGllbnQtcGFnZXMtbG9hZGVyLmpzP3BhZ2U9JTJGJmFic29sdXRlUGFnZVBhdGg9JTJGVXNlcnMlMkZ6c20lMkZEb2N1bWVudHMlMkZwcm9qZWN0JTJGUmVhY3QlMkZyZWFjdC1uZXh0LWdpdGh1YiUyRnBhZ2VzJTJGaW5kZXguanMhLi8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICAod2luZG93Ll9fTkVYVF9QID0gd2luZG93Ll9fTkVYVF9QIHx8IFtdKS5wdXNoKFtcbiAgICAgIFwiL1wiLFxuICAgICAgZnVuY3Rpb24gKCkge1xuICAgICAgICByZXR1cm4gcmVxdWlyZShcIi9Vc2Vycy96c20vRG9jdW1lbnRzL3Byb2plY3QvUmVhY3QvcmVhY3QtbmV4dC1naXRodWIvcGFnZXMvaW5kZXguanNcIik7XG4gICAgICB9XG4gICAgXSk7XG4gICJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./\n");
+eval("\n    (window.__NEXT_P = window.__NEXT_P || []).push([\n      \"/\",\n      function () {\n        return __webpack_require__(/*! ./pages/index.js */ \"./pages/index.js\");\n      }\n    ]);\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWNsaWVudC1wYWdlcy1sb2FkZXIuanM/ZDdhNyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsZUFBZSxtQkFBTyxDQUFDLDBDQUE4RTtBQUNyRztBQUNBIiwiZmlsZSI6Ii4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1jbGllbnQtcGFnZXMtbG9hZGVyLmpzP3BhZ2U9JTJGJmFic29sdXRlUGFnZVBhdGg9JTJGVXNlcnMlMkZ6aGFuZ3NoaW1lbmclMkZEb2N1bWVudHMlMkZwcm9qZWN0JTJGUmVhY3QlMkZyZWFjdC1uZXh0LWdpdGh1YiUyRnBhZ2VzJTJGaW5kZXguanMhLi8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICAod2luZG93Ll9fTkVYVF9QID0gd2luZG93Ll9fTkVYVF9QIHx8IFtdKS5wdXNoKFtcbiAgICAgIFwiL1wiLFxuICAgICAgZnVuY3Rpb24gKCkge1xuICAgICAgICByZXR1cm4gcmVxdWlyZShcIi9Vc2Vycy96aGFuZ3NoaW1lbmcvRG9jdW1lbnRzL3Byb2plY3QvUmVhY3QvcmVhY3QtbmV4dC1naXRodWIvcGFnZXMvaW5kZXguanNcIik7XG4gICAgICB9XG4gICAgXSk7XG4gICJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./\n");
 
 /***/ }),
 
@@ -3273,14 +3273,14 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 
 /***/ }),
 
-/***/ 4:
-/*!****************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js ***!
-  \****************************************************************************************************************************************************/
+/***/ 3:
+/*!*************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzsm%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fzhangshimeng%2FDocuments%2Fproject%2FReact%2Freact-next-github%2Fpages%2Findex.js!./");
 
 
 /***/ }),
@@ -3296,4 +3296,4 @@ eval("module.exports = dll_ec7d9c0249b2ef52b74c;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
