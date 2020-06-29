@@ -1,6 +1,7 @@
 import { Button } from 'antd';
 import LINK from 'next/link';
 import Router from 'next/router';
+import Head from 'next/head';
 
 const events = [
   'routeChangeStart', // 改变路由就是前三个钩子

@@ -1,8 +1,14 @@
 import { withRouter } from 'next/router';
+import styled from 'styled-components';
+
+const Title = styled.h1`
+  color: yellow;
+  font-size: 40px;
+`;
 
 const A = (props) => {
   const { query, name, age } = props;
-  return (<div>A {query.id} {name} {age}</div>);
+  return (<Title>A {query.id} {name} {age}</Title>);
 };
 
 A.getInitialProps = async (ctx) => {
