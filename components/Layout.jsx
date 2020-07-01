@@ -18,7 +18,8 @@ export default ({ children }) => (
       <p>scoped!</p>
       <style jsx>{`
         p {
-          color: blue;
+          color: #fff;
+          font-size: 24px;
         }
         div {
           background: red;
@@ -31,7 +32,7 @@ export default ({ children }) => (
       `}</style>
       <style global jsx>{`
         body {
-          background: black;
+          background: #fefefe;
         }
       `}</style>
     </div>
