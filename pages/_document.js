@@ -6,7 +6,7 @@ import {ServerStyleSheet}  from 'styled-components'
 
 function withLog(Comp) {
   return (props) =>{
-    console.log(props)
+    // console.log(props)
     return <Comp {...props}></Comp>
   }
 }

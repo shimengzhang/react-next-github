@@ -2,6 +2,7 @@ import { withRouter } from 'next/router';
 import styled from 'styled-components';
 // import moment from 'moment';
 import dynamic from 'next/dynamic';
+import getConfig from 'next/config';
 
 const Comp = dynamic(import('../components/comp'));
 
@@ -11,7 +12,13 @@ const Title = styled.div`
 `;
 
 const A = (props) => {
-  console.log('customKey', process.env.customKey);
+  // console.log('customKey', process.env.customKey);
+  // Only holds serverRuntimeConfig and publicRuntimeConfig
+  const { serverRuntimeConfig, publicRuntimeConfig } = getConfig();
+  // Will only be available on the server-side
+  // console.log(serverRuntimeConfig.mySecret);
+  // Will be available on both server-side and client-side
+  // console.log(publicRuntimeConfig.staticFolder);
   const {
     query, name, age, time,
   } = props;
@@ -23,7 +30,7 @@ const A = (props) => {
   );
 };
 
-A.getInitialProps = async (ctx) => {
+A.getInitialProps = async ({ ctx }) => {
   const { req, query } = ctx;
   const moment = await import('moment');
 
